@@ -5,19 +5,17 @@ public class boolean1 {
         boolean isStudent = true;
         boolean forSale = false;
 
+        // STU
         if (isStudent) {
             System.out.println("Yes u r Student");
-        }
-        else {
+        } else {
             System.out.println("Yes u r not Student");
         }
 
-
-
+        // SALE
         if (forSale) {
             System.out.println("Yes=");
-        }
-        else {
+        } else {
             System.out.println("Noooooooooo");
         }
     }
