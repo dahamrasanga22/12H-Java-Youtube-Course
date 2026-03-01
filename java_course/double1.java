@@ -1,6 +1,5 @@
 public class double1 {
     public static void main(String[] args) {
-
         
         double age2 = 30.5;
         double price = 19.99;  // Explicitly a double literal
