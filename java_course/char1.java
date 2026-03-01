@@ -1,5 +1,5 @@
 public class char1 {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
 
         char grade ='a';
         char symbol= '!';
