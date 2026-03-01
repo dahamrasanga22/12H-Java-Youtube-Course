@@ -1,5 +1,6 @@
 public class double1 {
 
+  
     public static void main(String[] args) {
         
         double age2 = 30.5;
