@@ -13,13 +13,21 @@ public class UserInputBoolean {
         
         System.out.println("Student : " + isStudent);
 
+<<<<<<< HEAD
 
+=======
+        
+>>>>>>> e05cc6a67570fd2ace0f732e02f9b07f38d0e662
         if (isStudent) {
             System.out.println("You are enrolled as Student");
         } else {
             System.out.println("You are NOT enrolled ");
         }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> e05cc6a67570fd2ace0f732e02f9b07f38d0e662
         scanner.close();
     }
 

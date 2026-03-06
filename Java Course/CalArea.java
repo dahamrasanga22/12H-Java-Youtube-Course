@@ -10,6 +10,7 @@ public class CalArea {
 
         Scanner scanner = new Scanner(System.in);
 
+        
         System.out.print("Enter the width : ");
         width = scanner.nextDouble();
 

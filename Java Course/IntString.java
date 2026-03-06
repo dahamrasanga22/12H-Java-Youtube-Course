@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class IntString {
     public static void main(String[] args) {
 
+        
         // common issues
         Scanner scanner = new Scanner(System.in);
 
