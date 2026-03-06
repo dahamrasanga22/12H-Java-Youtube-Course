@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class UserInput {
+public class UserInputString {
 
     public static void main(String[] args) {
 
