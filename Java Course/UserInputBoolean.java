@@ -12,6 +12,14 @@ public class UserInputBoolean {
 
         System.out.println("Student : " + isStudent);
 
+        
+        if (isStudent) {
+            System.out.println("You are enrolled as Student");
+        } else {
+            System.out.println("You are NOT enrolled ");
+        }
+
+
         scanner.close();
     }
 
